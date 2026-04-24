@@ -2,7 +2,7 @@ RESUMEN DEL CÓDIGO
 
 La Lista: Hay una lista llamada productos_cursoJs que son los productos (id, nombre y precio).
 
-El Carrito: Existe un carrito llamado carrito_bootcampSamuel donde se guarda lo que eliges.
+El Carrito: Hay un carrito llamado carrito_bootcampSamuel donde se guarda el producto.
 
 Agregar: La función agregarAlCarrito busca el producto y lo mete al carrito. Si ya estaba, solo le suma más cantidad.
 
